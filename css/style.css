@@ -61,7 +61,7 @@ form
 }
 
 body {
-	background-image: url('/res/flowers.png');
+	background-image: url('../res/flowers.png');
 }
 .cardService{
 	padding: 9%;
